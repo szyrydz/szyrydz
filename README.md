@@ -1,7 +1,7 @@
 # Szymon Rydzewski
 ### ⚡ Data & Cloud Engineer | Warsaw, Poland 🇵🇱
 
-Master's student in Data Processing at **Warsaw University of Technology** with hands-on experience in building scalable cloud pipelines and medallion lakehouses. Former Data Engineer Intern at **C&F**.
+Student at **Warsaw University of Technology** with hands-on experience in building scalable cloud pipelines and medallion lakehouses. Former Data Engineer Intern at **C&F**.
 
 ---
 
