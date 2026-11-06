@@ -9,7 +9,7 @@ Student at **Warsaw University of Technology** with hands-on experience in build
 - 🏛️ **Cloud Platforms:** Designing event-driven serverless architectures on Microsoft Azure with zero-idle cost (**FinOps**).
 - 🔄 **Data Engineering:** Building Medallion Lakehouses with **Databricks**, **Apache Spark / PySpark**, and **dbt**.
 - 🧠 **AI & Automation:** Integrating intelligent document analysis into automated data workflows.
-- 🎓 **Education:** M.Eng. in Electrical Engineering @ Warsaw University of Technology *(Politechnika Warszawska)*expected 2028.
+- 🎓 **Education:** M.Eng. in Electrical Engineering @ Warsaw University of Technology *(Politechnika Warszawska)* expected 2028.
 
 ---
 
